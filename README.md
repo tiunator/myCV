@@ -40,8 +40,8 @@ Here are some projects that showcase my skills:
 📧 Feel free to reach out to me at [to fill later your.email@example.com] for collaboration or any inquiries.
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
-- [Twitter](https://twitter.com/yourtwitterhandle)
+- [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile) - to fill later
+- [Twitter](https://twitter.com/yourtwitterhandle) - to fill later
 - [Personal Website/Blog](https://www.yourwebsite.com)
 
 ## License
