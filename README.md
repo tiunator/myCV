@@ -21,7 +21,7 @@
   - Docker
   - Google Cloud Platform (GCP)
 
-## Projects [to fill later]
+## Projects [to fill out later]
 Here are some projects that showcase my skills:
 
 1. **Project Name 1**
