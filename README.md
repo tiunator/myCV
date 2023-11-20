@@ -37,7 +37,7 @@ Here are some projects that showcase my skills:
    - Technologies Used: List of technologies used.
 
 ## Contact
-📧 Feel free to reach out to me at [to fill later your.email@example.com] for collaboration or any inquiries.
+📧 Feel free to reach out to me at [to fill later] [ my.email@example.com] for collaboration or any inquiries.
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile) - to fill later
